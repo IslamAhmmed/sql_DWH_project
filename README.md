@@ -70,7 +70,6 @@ data-warehouse-project/
 │
 ├── analytics/               # BI layer 
 │   ├── powerbi/
-│   │     ├── sales_dashboard.pbix
 |         ├── sales_dashboard.png
 │   │
 │   └── insights.md         # Key business insights
